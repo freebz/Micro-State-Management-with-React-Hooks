@@ -1,0 +1,1 @@
+const useNumberState = (init) => useNumberState(init || 0);

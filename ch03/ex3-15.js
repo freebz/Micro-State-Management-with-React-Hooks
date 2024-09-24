@@ -1,0 +1,1 @@
+const MemoedDummyComponent = memo(DummyComponent);
