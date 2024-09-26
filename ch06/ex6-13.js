@@ -1,0 +1,1 @@
+const sum = globalState.a + globalState.b + globalState.c;
