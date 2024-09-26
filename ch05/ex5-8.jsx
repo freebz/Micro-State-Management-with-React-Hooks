@@ -1,0 +1,5 @@
+const Root = () => (
+  <>
+    <Component />
+  </>
+);
