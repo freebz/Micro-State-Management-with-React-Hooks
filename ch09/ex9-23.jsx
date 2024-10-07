@@ -1,0 +1,6 @@
+const App = () => (
+  <>
+    <TodoList />
+    <NewTodo />
+  </>
+);
