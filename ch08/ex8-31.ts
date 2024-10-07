@@ -1,0 +1,1 @@
+const todosAtom = atom<Todo[]>([]);

@@ -1,0 +1,1 @@
+type TodoAtom = PrimitiveAtom<Todo>;
