@@ -1,0 +1,1 @@
+const charCountAtom = atom((get) => get(textAtom).length);
